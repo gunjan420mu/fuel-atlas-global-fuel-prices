@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+
+# Generated local data and temporary Tableau files
+fuel_prices.db
+~*.twbr
+
+# Superseded Tableau workbook
+Global_Fuel_Prices_Updated.twbx
